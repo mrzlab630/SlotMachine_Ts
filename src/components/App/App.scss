@@ -1,0 +1,74 @@
+.App{
+
+
+  & .tools{
+    position: absolute;
+    display: flex;
+    bottom: 10%;
+    right: 10%;
+    z-index: 99;
+
+    & ul{
+      margin: 0;
+      padding: 0;
+
+      & li{
+        list-style: none;
+      }
+    }
+
+    & label{
+      color: #f11c0b;
+      font-family: moon;
+    }
+    & input{
+      width: 60px;
+      height: 70px;
+      margin: 10px;
+      font-size: 2vw;
+      padding-left: 15px;
+      text-align: center;
+      border: 5px solid #FF9800;
+      border-radius: 100px;
+      color: #f11c0b;
+      font-weight: 600;
+      background: transparent;
+      outline: 0 none !important;
+
+      &::-webkit-input-placeholder { /* Edge */
+        color: red;
+      }
+
+      &:-ms-input-placeholder { /* Internet Explorer 10-11 */
+        color: red;
+      }
+
+      &::placeholder {
+        color: red;
+      }
+
+      &:visited,
+      &:focus,
+      &:active,
+      &:hover{
+        outline:0 none !important;
+      }
+    }
+
+
+
+  }
+
+  & .author{
+    position: absolute;
+    display: flex;
+    bottom: 10%;
+    left: 5%;
+    z-index: 99;
+
+    & a{
+      text-decoration: none;
+    }
+  }
+
+}

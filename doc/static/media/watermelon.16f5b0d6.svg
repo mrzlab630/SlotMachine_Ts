@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="icon-watermelon"
+   viewBox="0 0 32 32"
+   version="1.1"
+   sodipodi:docname="watermelon.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata6853">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>watermelon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6851" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="807"
+     inkscape:window-height="480"
+     id="namedview6849"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="icon-watermelon" />
+  <title
+     id="title6806">watermelon</title>
+  <path
+     class="path1"
+     fill="#cc1f3c"
+     d="M29.483 27.578l-12.22-26.69c-0.544-1.187-2.232-1.183-2.769 0.007l-12.050 26.682h27.039z"
+     id="path6808" />
+  <path
+     class="path2"
+     fill="#ffd283"
+     d="M2.444 27.578h27.039l0.539 1.232h-28.114z"
+     id="path6810" />
+  <path
+     class="path3"
+     fill="#ada323"
+     d="M1.908 28.809l-0.76 1.536c-0.377 0.762 0.177 1.655 1.027 1.655h27.649c0.868 0 1.421-0.928 1.008-1.691l-0.811-1.5h-28.114z"
+     id="path6812" />
+  <path
+     class="path4"
+     fill="#563824"
+     d="M17.176 7.158c0 0.758-0.344 1.372-0.769 1.372s-0.769-0.614-0.769-1.372c0-0.758 0.344-1.372 0.769-1.372s0.769 0.614 0.769 1.372z"
+     id="path6814" />
+  <path
+     class="path5"
+     fill="#563824"
+     d="M19.605 12.667c0 0.758-0.344 1.372-0.769 1.372s-0.769-0.614-0.769-1.372c0-0.758 0.344-1.372 0.769-1.372s0.769 0.614 0.769 1.372z"
+     id="path6816" />
+  <path
+     class="path6"
+     fill="#563824"
+     d="M17.116 15.361c0 0.758-0.344 1.372-0.769 1.372s-0.769-0.614-0.769-1.372c0-0.758 0.344-1.372 0.769-1.372s0.769 0.614 0.769 1.372z"
+     id="path6818" />
+  <path
+     class="path7"
+     fill="#563824"
+     d="M14.973 16.787c0 0.758-0.344 1.372-0.769 1.372s-0.769-0.614-0.769-1.372c0-0.758 0.344-1.372 0.769-1.372s0.769 0.614 0.769 1.372z"
+     id="path6820" />
+  <path
+     class="path8"
+     fill="#563824"
+     d="M22.209 18.158c0 0.758-0.344 1.372-0.769 1.372s-0.769-0.614-0.769-1.372c0-0.758 0.344-1.372 0.769-1.372s0.769 0.614 0.769 1.372z"
+     id="path6822" />
+  <path
+     class="path9"
+     fill="#563824"
+     d="M14.203 11.295c0 0.758-0.344 1.372-0.769 1.372s-0.769-0.614-0.769-1.372c0-0.758 0.344-1.372 0.769-1.372s0.769 0.614 0.769 1.372z"
+     id="path6824" />
+  <path
+     class="path10"
+     fill="#563824"
+     d="M11.621 18.158c0 0.758-0.344 1.372-0.769 1.372s-0.769-0.614-0.769-1.372c0-0.758 0.344-1.372 0.769-1.372s0.769 0.614 0.769 1.372z"
+     id="path6826" />
+  <path
+     class="path11"
+     fill="#563824"
+     d="M17.886 20.902c0 0.758-0.344 1.372-0.769 1.372s-0.769-0.614-0.769-1.372c0-0.758 0.344-1.372 0.769-1.372s0.769 0.614 0.769 1.372z"
+     id="path6828" />
+  <path
+     class="path12"
+     fill="#000"
+     opacity="0.2"
+     d="M8.075 30.405l-2.594-1.595v-1.232l10.21-27.565c-0.492 0.060-0.958 0.353-1.197 0.882l-12.050 26.682-0.536 1.232-0.76 1.536c-0.377 0.762 0.177 1.655 1.027 1.655h27.649c0.832 0 1.372-0.852 1.052-1.595l-22.802-0z"
+     id="path6830" />
+  <path
+     class="path13"
+     fill="#fff"
+     opacity="0.2"
+     d="M16.83 6.485c0 0.311-0.141 0.563-0.316 0.563s-0.316-0.252-0.316-0.563c0-0.311 0.141-0.563 0.316-0.563s0.316 0.252 0.316 0.563z"
+     id="path6832" />
+  <path
+     class="path14"
+     fill="#fff"
+     opacity="0.2"
+     d="M21.788 17.349c0 0.311-0.141 0.563-0.316 0.563s-0.316-0.252-0.316-0.563c0-0.311 0.141-0.563 0.316-0.563s0.316 0.252 0.316 0.563z"
+     id="path6834" />
+  <path
+     class="path15"
+     fill="#fff"
+     opacity="0.2"
+     d="M16.83 14.602c0 0.311-0.141 0.563-0.316 0.563s-0.316-0.252-0.316-0.563c0-0.311 0.141-0.563 0.316-0.563s0.316 0.252 0.316 0.563z"
+     id="path6836" />
+  <path
+     class="path16"
+     fill="#fff"
+     opacity="0.2"
+     d="M14.868 16.007c0 0.311-0.141 0.563-0.316 0.563s-0.316-0.252-0.316-0.563c0-0.311 0.141-0.563 0.316-0.563s0.316 0.252 0.316 0.563z"
+     id="path6838" />
+  <path
+     class="path17"
+     fill="#fff"
+     opacity="0.2"
+     d="M19.21 12.123c0 0.311-0.141 0.563-0.316 0.563s-0.316-0.252-0.316-0.563c0-0.311 0.141-0.563 0.316-0.563s0.316 0.252 0.316 0.563z"
+     id="path6840" />
+  <path
+     class="path18"
+     fill="#fff"
+     opacity="0.2"
+     d="M11.483 17.349c0 0.311-0.141 0.563-0.316 0.563s-0.316-0.252-0.316-0.563c0-0.311 0.141-0.563 0.316-0.563s0.316 0.252 0.316 0.563z"
+     id="path6842" />
+  <path
+     class="path19"
+     fill="#fff"
+     opacity="0.2"
+     d="M13.75 10.657c0 0.311-0.141 0.563-0.316 0.563s-0.316-0.252-0.316-0.563c0-0.311 0.141-0.563 0.316-0.563s0.316 0.252 0.316 0.563z"
+     id="path6844" />
+  <path
+     class="path20"
+     fill="#fff"
+     opacity="0.2"
+     d="M17.492 20.34c0 0.311-0.141 0.563-0.316 0.563s-0.316-0.252-0.316-0.563c0-0.311 0.141-0.563 0.316-0.563s0.316 0.252 0.316 0.563z"
+     id="path6846" />
+</svg>

@@ -1,7 +1,19 @@
 {
-  "name": "slot-machine-ts",
-  "version": "0.1.0",
-  "private": true,
+  "name": "SlotMachine_Ts",
+  "description": "React.Js Typescript slot machine",
+  "version": "1.0.1",
+  "author": "mrZLab630 <mrz@mrzlab630.pw>",
+  "main": "index.js",
+  "keywords": [
+    "react.js",
+    "typescript",
+    "slot machine"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrzlab630/SlotMachine_Ts"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -35,5 +47,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "node-sass": "^4.13.1"
   }
 }

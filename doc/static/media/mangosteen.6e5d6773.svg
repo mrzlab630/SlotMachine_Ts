@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="icon-mangosteen"
+   viewBox="0 0 32 32"
+   version="1.1"
+   sodipodi:docname="mangosteen.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata5188">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>mangosteen</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5186" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="807"
+     inkscape:window-height="480"
+     id="namedview5184"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="icon-mangosteen" />
+  <title
+     id="title5159">mangosteen</title>
+  <path
+     class="path1"
+     fill="#87487b"
+     d="M32 16c0 8.837-7.163 16-16 16s-16-7.163-16-16c0-8.837 7.163-16 16-16s16 7.163 16 16z"
+     id="path5161" />
+  <path
+     class="path2"
+     fill="#7a3d71"
+     d="M29.503 16c0 7.458-6.046 13.503-13.503 13.503s-13.503-6.046-13.503-13.503c0-7.458 6.046-13.503 13.503-13.503s13.503 6.046 13.503 13.503z"
+     id="path5163" />
+  <path
+     class="path3"
+     fill="#ffd79c"
+     d="M28.591 16c0 6.954-5.637 12.591-12.591 12.591s-12.591-5.637-12.591-12.591c0-6.954 5.637-12.591 12.591-12.591s12.591 5.637 12.591 12.591z"
+     id="path5165" />
+  <path
+     class="path4"
+     fill="#87487b"
+     d="M19.015 16c0 1.665-1.35 3.015-3.015 3.015s-3.015-1.35-3.015-3.015c0-1.665 1.35-3.015 3.015-3.015s3.015 1.35 3.015 3.015z"
+     id="path5167" />
+  <path
+     class="path5"
+     fill="#87487b"
+     d="M15.594 2.757h0.893v26.487h-0.893v-26.487z"
+     id="path5169" />
+  <path
+     class="path6"
+     fill="#87487b"
+     d="M2.757 15.553h26.487v0.893h-26.487v-0.893z"
+     id="path5171" />
+  <path
+     class="path7"
+     fill="#87487b"
+     d="M6.965 25.693l-0.631-0.632 18.731-18.726 0.631 0.632-18.731 18.726z"
+     id="path5173" />
+  <path
+     class="path8"
+     fill="#87487b"
+     d="M6.306 6.936l0.631-0.631 18.729 18.729-0.631 0.631-18.729-18.729z"
+     id="path5175" />
+  <path
+     class="path9"
+     fill="#fff"
+     opacity="0.4"
+     d="M25.871 6.243c0 1.399-1.134 2.532-2.532 2.532s-2.532-1.134-2.532-2.532c0-1.399 1.134-2.532 2.532-2.532s2.532 1.134 2.532 2.532z"
+     id="path5177" />
+  <path
+     class="path10"
+     fill="#fff"
+     opacity="0.4"
+     d="M28.648 10.413c0 0.699-0.567 1.266-1.266 1.266s-1.266-0.567-1.266-1.266c0-0.699 0.567-1.266 1.266-1.266s1.266 0.567 1.266 1.266z"
+     id="path5179" />
+  <path
+     class="path11"
+     fill="#000"
+     opacity="0.2"
+     d="M2.757 18.649c-1.252-7.441 3.134-13.542 7.275-17.494-5.88 2.366-10.032 8.119-10.032 14.845 0 8.837 7.163 16 16 16 2.748 0 5.334-0.694 7.593-1.914-9.162 1.638-19.229-1.891-20.836-11.437z"
+     id="path5181" />
+</svg>
