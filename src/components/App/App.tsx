@@ -35,7 +35,8 @@ const App: React.FC = () => {
     const [rowsAdd,setRowsAdd] = useState<number>(3);
     const [slotsAdd,setSlotsAddAdd] = useState<number>(3);
 
-    const arrSlot: any[] = [apple,
+    const arrSlot: any[] = [
+        apple,
         avocado,
         bananas,
         cherry,
