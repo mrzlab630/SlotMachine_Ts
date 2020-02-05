@@ -28,9 +28,10 @@ open **http://localhost:3000**
 ##### TODO
 
 1. work on animation
-2. reaction to win and lose
-3. result calculation
-4. add balance
+2. mobile version
+3. reaction to win and lose
+4. result calculation
+5. add balance
 
 ## Donation
 
